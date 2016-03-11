@@ -1,0 +1,1040 @@
+TDTPortalLibMac
+v6
+r1
+cCheck dependencies
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalCommon.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalHighScores.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalHighScores.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/error.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/error.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalSDK.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTasks.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/crypt_argchk.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strbuffer.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/dump.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/dump.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/load.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_decode.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalNetwork.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strconv.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strconv.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/pack_unpack.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/pack_unpack.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/hashtable.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/sha256.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/utf.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTextBlob.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTextBlob.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/memory.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/memory.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/value.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/value.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_encode.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalAnalytics.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalAnalytics.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/libDTPortalLibMac.a normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000052826EB400000000000000AA
+t1384279732
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526D36DC000000000000044C
+t1382889180
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526D36DC00000000000001DB
+t1382889180
+s475
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalAnalytics.o
+t1394054511
+s192496
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalCommon.o
+t1394054508
+s91920
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalHighScores.o
+t1394054508
+s331976
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalLibMac.LinkFileList
+c000000005317956B0000000000000CE2
+t1394054507
+s3298
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalNetwork.o
+t1394054510
+s196704
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalSDK.o
+t1394054509
+s39900
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTasks.o
+t1394054510
+s485776
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTextBlob.o
+t1394054511
+s112188
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_decode.o
+t1394054509
+s5584
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_encode.o
+t1394054510
+s5792
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/crypt_argchk.o
+t1394054509
+s3196
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/dump.o
+t1394054509
+s19580
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/error.o
+t1394054508
+s6244
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/hashtable.o
+t1394054510
+s16764
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/load.o
+t1394054509
+s36240
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/memory.o
+t1394054510
+s5204
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/pack_unpack.o
+t1394054510
+s31148
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/sha256.o
+t1394054510
+s41244
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strbuffer.o
+t1394054509
+s6988
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strconv.o
+t1394054510
+s6080
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/utf.o
+t1394054510
+s6492
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/value.o
+t1394054510
+s45288
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/libDTPortalLibMac.a
+t1394054511
+s1722704
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/dump.c
+c0000000052B1C93100000000000030E3
+t1387383089
+s12515
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/error.c
+c0000000052B1C93100000000000005D7
+t1387383089
+s1495
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.c
+c0000000052B1C9310000000000002154
+t1387383089
+s8532
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.h
+c0000000052B1C9310000000000001286
+t1387383089
+s4742
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson.h
+c0000000052B1C93100000000000023A1
+t1387383089
+s9121
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_config.h
+c0000000052B1C931000000000000049F
+t1387383089
+s1183
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_private.h
+c0000000052B1C9310000000000000AC2
+t1387383089
+s2754
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c
+c0000000052B1C9310000000000006832
+t1387383089
+s26674
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/memory.c
+c0000000052B1C931000000000000048F
+t1387383089
+s1167
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/pack_unpack.c
+c0000000052B1C93100000000000049A1
+t1387383089
+s18849
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.c
+c0000000052B1C9310000000000000A6D
+t1387383089
+s2669
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.h
+c0000000052B1C9310000000000000399
+t1387383089
+s921
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strconv.c
+c0000000052B1C9310000000000000B35
+t1387383089
+s2869
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.c
+c0000000052B1C9310000000000000FBC
+t1387383089
+s4028
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.h
+c0000000052B1C9310000000000000411
+t1387383089
+s1041
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/value.c
+c0000000052B1C93100000000000050A6
+t1387383089
+s20646
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha224.c
+c0000000052B1E5740000000000000C0B
+t1387390324
+s3083
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c
+c0000000052B1E5740000000000002DCB
+t1387390324
+s11723
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h
+c0000000052B1E57400000000000009EF
+t1387390324
+s2543
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_argchk.h
+c0000000052B1E57400000000000003D1
+t1387390324
+s977
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_cfg.h
+c0000000052B1E5740000000000000F1D
+t1387390324
+s3869
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_cipher.h
+c0000000052B1E5740000000000007BD6
+t1387390324
+s31702
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h
+c0000000052B1E57400000000000020C8
+t1387390324
+s8392
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_hash.h
+c0000000052B1E57400000000000030A9
+t1387390324
+s12457
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_mac.h
+c0000000052B1E5740000000000003892
+t1387390324
+s14482
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_macros.h
+c0000000052B1E574000000000000381D
+t1387390324
+s14365
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_math.h
+c0000000052B1E57400000000000042C5
+t1387390324
+s17093
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_misc.h
+c0000000052B1E57400000000000002B3
+t1387390324
+s691
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_pk.h
+c0000000052B1E5740000000000005218
+t1387390324
+s21016
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_pkcs.h
+c0000000052B1E5740000000000000F95
+t1387390324
+s3989
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_prng.h
+c0000000052B1E5740000000000001C38
+t1387390324
+s7224
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c
+c0000000052B1E5740000000000000DB9
+t1387390324
+s3513
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c
+c0000000052B1E5740000000000000893
+t1387390324
+s2195
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c
+c0000000052B1E57400000000000002FF
+t1387390324
+s767
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalAnalytics.cpp
+c0000000052FE815700000000000024EA
+t1392410967
+s9450
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalAnalytics.hpp
+c0000000052F543670000000000000927
+t1391805287
+s2343
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.cpp
+c0000000052F5436700000000000012AB
+t1391805287
+s4779
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.hpp
+c0000000052F543660000000000000FB1
+t1391805286
+s4017
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalHighScores.cpp
+c0000000052F543660000000000002E1B
+t1391805286
+s11803
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalHighScores.hpp
+c0000000052F543670000000000000986
+t1391805287
+s2438
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp
+c0000000052F543670000000000001A0D
+t1391805287
+s6669
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.hpp
+c0000000052F543670000000000000BA6
+t1391805287
+s2982
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.cpp
+c0000000052F543660000000000000B2C
+t1391805286
+s2860
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.hpp
+c0000000052F543660000000000001602
+t1391805286
+s5634
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.cpp
+c0000000052F543670000000000001E68
+t1391805287
+s7784
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.hpp
+c0000000052F54367000000000000271C
+t1391805287
+s10012
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTextBlob.cpp
+c0000000052F543670000000000001912
+t1391805287
+s6418
+
+N/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTextBlob.hpp
+c0000000052F543670000000000000821
+t1391805287
+s2081
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/dump.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/error.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/memory.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/pack_unpack.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strconv.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/value.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalAnalytics.cpp
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.cpp
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalHighScores.cpp
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.cpp
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.cpp
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTextBlob.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies39b577010bebb841^c95978010bebb841^---0#1#1#--18"Check dependencies36"5F864EDB-8962-43D3-91B3-77ADA09D0EBF-
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalAnalytics.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalAnalytics.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s415747310.949419
+e415747311.688071
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalAnalytics.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalAnalytics.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalAnalytics.cpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalAnalytics.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_config.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalAnalytics.cpp262"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalAnalytics.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalAnalytics.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilercc27f3eeccc7b841^ab26b0efccc7b841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalAnalytics.cpp0000000000000000^3459"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalAnalytics.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalAnalytics.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalAnalytics.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalAnalytics.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalAnalytics.cpp -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalAnalytics.o36"20DB6D19-FB2C-4E7D-B22F-8D81D4782D6F-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalCommon.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s415747307.007940
+e415747308.238168
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalCommon.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.cpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalHighScores.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTextBlob.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalAnalytics.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.cpp256"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalCommon.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler4b1f02ebccc7b841^c6f83cecccc7b841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.cpp0000000000000000^3441"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalCommon.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalCommon.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalCommon.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.cpp -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalCommon.o36"8D655C3B-02D8-4F29-8C53-45C9BB5DB076-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalHighScores.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalHighScores.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s415747307.008415
+e415747308.960165
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalHighScores.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalHighScores.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalHighScores.cpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalHighScores.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_config.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalHighScores.cpp264"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalHighScores.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalHighScores.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler043b02ebccc7b841^ddcff5ecccc7b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalHighScores.cpp0000000000000000^3465"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalHighScores.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalHighScores.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalHighScores.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalHighScores.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalHighScores.cpp -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalHighScores.o36"69EEF90C-B181-4D04-8C33-D665335C7EAB-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalNetwork.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s415747309.524999
+e415747310.682226
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalNetwork.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_cfg.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_macros.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_cipher.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_hash.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_mac.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_prng.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_pk.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_math.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_misc.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_argchk.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_pkcs.h
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp:28:
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:
+o/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:196:9: warning: 'LTC_SHA256' macro redefined
+o#define LTC_SHA256
+o        ^
+oIn file included from <built-in>:168:
+o<command line>:3:9: note: previous definition is here
+o#define LTC_SHA256 1
+o        ^
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp:28:
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:
+o/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:248:9: warning: 'LTC_BASE64' macro redefined
+o#define LTC_BASE64
+o        ^
+oIn file included from <built-in>:168:
+o<command line>:4:9: note: previous definition is here
+o#define LTC_BASE64 1
+o        ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp258"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalNetwork.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler897d86edccc7b841^46edaeeeccc7b841^-1268"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp:28:In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:196:9: warning: 'LTC_SHA256' macro redefined#define LTC_SHA256        ^In file included from <built-in>:168:<command line>:3:9: note: previous definition is here#define LTC_SHA256 1        ^In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp:28:In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:248:9: warning: 'LTC_BASE64' macro redefined#define LTC_BASE64        ^In file included from <built-in>:168:<command line>:4:9: note: previous definition is here#define LTC_BASE64 1        ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@28"'LTC_SHA256' macro redefined-415747310#18446744073709551615#0#3(2@122"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp:28:-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@103"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp0000000000000000^27#13#27#13#765#0#21"Apple LLVM 5.0 Notice--2@160"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@132"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h0000000000000000^11#9#11#9#215#0#21"Apple LLVM 5.0 Notice--2@27"Previous definition is here-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/%3Ccommand%20line%3E0000000000000000^2#8#2#8#5256#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@139"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h0000000000000000^195#8#195#8#3785#0#29"Lexical or Preprocessor Issue--2@28"'LTC_BASE64' macro redefined-415747310#18446744073709551615#0#3(2@122"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp:28:-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@103"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp0000000000000000^27#13#27#13#765#0#21"Apple LLVM 5.0 Notice--2@160"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@132"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h0000000000000000^11#9#11#9#215#0#21"Apple LLVM 5.0 Notice--2@27"Previous definition is here-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/%3Ccommand%20line%3E0000000000000000^3#8#3#8#5277#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@139"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h0000000000000000^247#8#247#8#4821#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@103"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp0000000000000000^3447"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalNetwork.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalNetwork.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalNetwork.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.cpp -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalNetwork.o36"B3F29C6A-5209-4092-8B0D-00A426A79B00-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalSDK.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s415747308.485923
+e415747309.030688
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalSDK.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.cpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalHighScores.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTextBlob.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalAnalytics.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.cpp250"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalSDK.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler037b7cecccc7b841^4b2108edccc7b841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.cpp0000000000000000^3423"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalSDK.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalSDK.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalSDK.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.cpp -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalSDK.o36"FB1DF076-CE90-49D9-A6DB-7DA3B6E9165B-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTasks.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s415747308.961054
+e415747310.171383
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTasks.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.cpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.cpp254"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTasks.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilera721f6ecccc7b841^8fdf2beeccc7b841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.cpp0000000000000000^3435"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTasks.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTasks.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTasks.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.cpp -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTasks.o36"64DFAB7F-57CC-4124-9BA3-51CCC530DD87-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTextBlob.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTextBlob.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s415747310.676081
+e415747311.391391
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTextBlob.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTextBlob.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTextBlob.cpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTextBlob.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalSDK.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalCommon.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTasks.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalNetwork.hpp
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_config.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTextBlob.cpp260"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTextBlob.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTextBlob.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler2b2fadeeccc7b841^763264efccc7b841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTextBlob.cpp0000000000000000^3453"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTextBlob.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTextBlob.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTextBlob.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTextBlob.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/DTPortalTextBlob.cpp -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalTextBlob.o36"7F626E98-A3CF-49F7-AEAC-E7FD770F5E50-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_decode.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s415747309.450629
+e415747309.524635
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_decode.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_cfg.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_macros.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_cipher.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_hash.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_mac.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_prng.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_pk.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_math.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_misc.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_argchk.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_pkcs.h
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c:11:
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:
+o/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:196:9: warning: 'LTC_SHA256' macro redefined
+o#define LTC_SHA256
+o        ^
+oIn file included from <built-in>:163:
+o<command line>:3:9: note: previous definition is here
+o#define LTC_SHA256 1
+o        ^
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c:11:
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:
+o/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:248:9: warning: 'LTC_BASE64' macro redefined
+o#define LTC_BASE64
+o        ^
+oIn file included from <built-in>:163:
+o<command line>:4:9: note: previous definition is here
+o#define LTC_BASE64 1
+o        ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c292"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_decode.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compilerb47673edccc7b841^8aab86edccc7b841^-1344"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c:11:In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:196:9: warning: 'LTC_SHA256' macro redefined#define LTC_SHA256        ^In file included from <built-in>:163:<command line>:3:9: note: previous definition is here#define LTC_SHA256 1        ^In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c:11:In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:248:9: warning: 'LTC_BASE64' macro redefined#define LTC_BASE64        ^In file included from <built-in>:163:<command line>:4:9: note: previous definition is here#define LTC_BASE64 1        ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@28"'LTC_SHA256' macro redefined-415747309#18446744073709551615#0#3(2@160"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c:11:-415747309#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@141"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c0000000000000000^10#9#10#9#343#0#21"Apple LLVM 5.0 Notice--2@160"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:-415747309#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@132"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h0000000000000000^11#9#11#9#215#0#21"Apple LLVM 5.0 Notice--2@27"Previous definition is here-415747309#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/%3Ccommand%20line%3E0000000000000000^2#8#2#8#5121#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@139"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h0000000000000000^195#8#195#8#3785#0#29"Lexical or Preprocessor Issue--2@28"'LTC_BASE64' macro redefined-415747309#18446744073709551615#0#3(2@160"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c:11:-415747309#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@141"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c0000000000000000^10#9#10#9#343#0#21"Apple LLVM 5.0 Notice--2@160"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:-415747309#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@132"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h0000000000000000^11#9#11#9#215#0#21"Apple LLVM 5.0 Notice--2@27"Previous definition is here-415747309#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/%3Ccommand%20line%3E0000000000000000^3#8#3#8#5142#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@139"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h0000000000000000^247#8#247#8#4821#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@141"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c0000000000000000^3371"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_decode.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_decode.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_decode.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_decode.c -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_decode.o36"287FD25A-F93D-4DC8-A119-403B3AB1F64F-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_encode.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s415747310.877128
+e415747310.949174
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_encode.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_cfg.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_macros.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_cipher.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_hash.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_mac.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_prng.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_pk.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_math.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_misc.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_argchk.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_pkcs.h
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c:11:
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:
+o/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:196:9: warning: 'LTC_SHA256' macro redefined
+o#define LTC_SHA256
+o        ^
+oIn file included from <built-in>:163:
+o<command line>:3:9: note: previous definition is here
+o#define LTC_SHA256 1
+o        ^
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c:11:
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:
+o/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:248:9: warning: 'LTC_BASE64' macro redefined
+o#define LTC_BASE64
+o        ^
+oIn file included from <built-in>:163:
+o<command line>:4:9: note: previous definition is here
+o#define LTC_BASE64 1
+o        ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c292"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_encode.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler6aa5e0eeccc7b841^37fcf2eeccc7b841^-1344"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c:11:In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:196:9: warning: 'LTC_SHA256' macro redefined#define LTC_SHA256        ^In file included from <built-in>:163:<command line>:3:9: note: previous definition is here#define LTC_SHA256 1        ^In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c:11:In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:248:9: warning: 'LTC_BASE64' macro redefined#define LTC_BASE64        ^In file included from <built-in>:163:<command line>:4:9: note: previous definition is here#define LTC_BASE64 1        ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@28"'LTC_SHA256' macro redefined-415747310#18446744073709551615#0#3(2@160"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c:11:-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@141"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c0000000000000000^10#9#10#9#343#0#21"Apple LLVM 5.0 Notice--2@160"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@132"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h0000000000000000^11#9#11#9#215#0#21"Apple LLVM 5.0 Notice--2@27"Previous definition is here-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/%3Ccommand%20line%3E0000000000000000^2#8#2#8#5121#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@139"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h0000000000000000^195#8#195#8#3785#0#29"Lexical or Preprocessor Issue--2@28"'LTC_BASE64' macro redefined-415747310#18446744073709551615#0#3(2@160"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c:11:-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@141"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c0000000000000000^10#9#10#9#343#0#21"Apple LLVM 5.0 Notice--2@160"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@132"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h0000000000000000^11#9#11#9#215#0#21"Apple LLVM 5.0 Notice--2@27"Previous definition is here-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/%3Ccommand%20line%3E0000000000000000^3#8#3#8#5142#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@139"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h0000000000000000^247#8#247#8#4821#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@141"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c0000000000000000^3371"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_encode.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_encode.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_encode.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64/base64_encode.c -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/base64_encode.o36"9457820E-72C1-41E9-96F2-F5E3ADC0FD19-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/crypt_argchk.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s415747309.031375
+e415747309.191183
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/crypt_argchk.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_cfg.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_macros.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_cipher.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_hash.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_mac.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_prng.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_pk.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_math.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_misc.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_argchk.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_pkcs.h
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c:11:
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:
+o/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:196:9: warning: 'LTC_SHA256' macro redefined
+o#define LTC_SHA256
+o        ^
+oIn file included from <built-in>:163:
+o<command line>:3:9: note: previous definition is here
+o#define LTC_SHA256 1
+o        ^
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c:11:
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:
+o/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:248:9: warning: 'LTC_BASE64' macro redefined
+o#define LTC_BASE64
+o        ^
+oIn file included from <built-in>:163:
+o<command line>:4:9: note: previous definition is here
+o#define LTC_BASE64 1
+o        ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c289"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/crypt_argchk.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler212308edccc7b841^062c31edccc7b841^-1340"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c:11:In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:196:9: warning: 'LTC_SHA256' macro redefined#define LTC_SHA256        ^In file included from <built-in>:163:<command line>:3:9: note: previous definition is here#define LTC_SHA256 1        ^In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c:11:In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:248:9: warning: 'LTC_BASE64' macro redefined#define LTC_BASE64        ^In file included from <built-in>:163:<command line>:4:9: note: previous definition is here#define LTC_BASE64 1        ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@28"'LTC_SHA256' macro redefined-415747309#18446744073709551615#0#3(2@158"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c:11:-415747309#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@139"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c0000000000000000^10#9#10#9#343#0#21"Apple LLVM 5.0 Notice--2@160"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:-415747309#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@132"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h0000000000000000^11#9#11#9#215#0#21"Apple LLVM 5.0 Notice--2@27"Previous definition is here-415747309#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/%3Ccommand%20line%3E0000000000000000^2#8#2#8#5121#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@139"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h0000000000000000^195#8#195#8#3785#0#29"Lexical or Preprocessor Issue--2@28"'LTC_BASE64' macro redefined-415747309#18446744073709551615#0#3(2@158"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c:11:-415747309#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@139"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c0000000000000000^10#9#10#9#343#0#21"Apple LLVM 5.0 Notice--2@160"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:-415747309#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@132"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h0000000000000000^11#9#11#9#215#0#21"Apple LLVM 5.0 Notice--2@27"Previous definition is here-415747309#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/%3Ccommand%20line%3E0000000000000000^3#8#3#8#5142#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@139"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h0000000000000000^247#8#247#8#4821#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@139"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c0000000000000000^3363"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/crypt_argchk.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/crypt_argchk.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/crypt_argchk.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/crypt_argchk.o36"724E5B96-BA52-4B2D-86E0-CD768A7BBF26-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/dump.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/dump.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s415747309.251528
+e415747309.352476
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/dump.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/dump.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/dump.c
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_config.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_private.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.h
+o/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/dump.c:233:17: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o            n = json_array_size(json);
+o              ~ ^~~~~~~~~~~~~~~~~~~~~
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/dump.c257"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/dump.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/dump.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compilerd47d40edccc7b841^2d775aedccc7b841^-330"/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/dump.c:233:17: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]            n = json_array_size(json);              ~ ^~~~~~~~~~~~~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@84"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int'-415747309#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@115"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/dump.c0000000000000000^232#16#232#16#5892#0#22"Value Conversion Issue2(3@115"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/dump.c0000000000000000^232#16#232#37#5892#20#3@115"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/dump.c0000000000000000^232#14#232#15#5890#0#-0#0#1#-19%DVTDocumentLocation4@115"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/dump.c0000000000000000^3283"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/dump.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/dump.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/dump.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/dump.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/dump.c -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/dump.o36"5D361D60-E7CA-4960-BB55-F4802417505B-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/error.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/error.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s415747308.238463
+e415747308.484623
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/error.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/error.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/error.c
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_private.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_config.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.h
+o/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/error.c:59:23: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o    error->position = position;
+o                    ~ ^~~~~~~~
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/error.c259"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/error.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/error.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler10223decccc7b841^87517cecccc7b841^-316"/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/error.c:59:23: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]    error->position = position;                    ~ ^~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@84"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int'-415747308#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@116"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/error.c0000000000000000^58#22#58#22#1369#0#22"Value Conversion Issue2(3@116"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/error.c0000000000000000^58#22#58#30#1369#0#3@116"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/error.c0000000000000000^58#20#58#21#1367#0#-0#0#1#-19%DVTDocumentLocation4@116"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/error.c0000000000000000^3289"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/error.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/error.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/error.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/error.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/error.c -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/error.o36"0E65C06C-DC99-4241-A05E-AD9D1DEDD830-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/hashtable.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s415747310.389684
+e415747310.474215
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/hashtable.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.c
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_config.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_private.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.c267"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/hashtable.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compilera4de63eeccc7b841^276679eeccc7b841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.c0000000000000000^3313"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/hashtable.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/hashtable.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/hashtable.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.c -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/hashtable.o36"11ECB9DD-55B4-40DE-A50A-72B86FFE3777-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/load.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s415747309.352794
+e415747309.450284
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/load.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_config.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_private.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.h
+o/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c:174:21: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o            count = utf8_check_first(c);
+o                  ~ ^~~~~~~~~~~~~~~~~~~
+o/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c:903:39: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o        error->position = lex->stream.position;
+o                        ~ ~~~~~~~~~~~~^~~~~~~~
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c257"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/load.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compilerad695aedccc7b841^2c4473edccc7b841^-662"/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c:174:21: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]            count = utf8_check_first(c);                  ~ ^~~~~~~~~~~~~~~~~~~/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c:903:39: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]        error->position = lex->stream.position;                        ~ ~~~~~~~~~~~~^~~~~~~~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@84"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int'-415747309#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@115"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c0000000000000000^173#20#173#20#4359#0#22"Value Conversion Issue2(3@115"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c0000000000000000^173#20#173#39#4359#18#3@115"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c0000000000000000^173#18#173#19#4357#0#-2@84"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int'-415747309#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@115"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c0000000000000000^902#38#902#38#22712#0#22"Value Conversion Issue2(3@115"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c0000000000000000^902#26#902#46#22700#12#3@115"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c0000000000000000^902#24#902#25#22698#0#-0#0#1#-19%DVTDocumentLocation4@115"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c0000000000000000^3283"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/load.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/load.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/load.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/load.c -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/load.o36"6E14CEE2-2E2F-46B1-AD13-331537F66396-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/memory.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/memory.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s415747310.682625
+e415747310.741886
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/memory.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/memory.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/memory.c
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_config.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_private.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/memory.c261"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/memory.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/memory.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compilerc5feaeeeccc7b841^b7ebbdeeccc7b841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/memory.c0000000000000000^3295"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/memory.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/memory.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/memory.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/memory.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/memory.c -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/memory.o36"FC0386C1-DB32-4B49-9229-666505FCF3D7-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/pack_unpack.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/pack_unpack.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s415747310.284422
+e415747310.389105
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/pack_unpack.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/pack_unpack.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/pack_unpack.c
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_config.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_private.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/pack_unpack.c271"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/pack_unpack.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/pack_unpack.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler49f648eeccc7b841^99ba63eeccc7b841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/pack_unpack.c0000000000000000^3325"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/pack_unpack.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/pack_unpack.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/pack_unpack.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/pack_unpack.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/pack_unpack.c -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/pack_unpack.o36"D46249F8-25EB-4DCE-A0F4-1701ECFC8352-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/sha256.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s415747310.474876
+e415747310.633678
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/sha256.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_cfg.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_macros.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_cipher.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_hash.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_mac.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_prng.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_pk.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_math.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_misc.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_argchk.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_pkcs.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha224.c
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c:11:
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:
+o/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:196:9: warning: 'LTC_SHA256' macro redefined
+o#define LTC_SHA256
+o        ^
+oIn file included from <built-in>:163:
+o<command line>:3:9: note: previous definition is here
+o#define LTC_SHA256 1
+o        ^
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c:11:
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:
+o/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:248:9: warning: 'LTC_BASE64' macro redefined
+o#define LTC_BASE64
+o        ^
+oIn file included from <built-in>:163:
+o<command line>:4:9: note: previous definition is here
+o#define LTC_BASE64 1
+o        ^
+o/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c:87:9: warning: implicit conversion loses integer precision: 'unsigned long' to 'ulong32' (aka 'unsigned int') [-Wshorten-64-to-32]
+o        LOAD32H(W[i], buf + (4*i));
+o        ^~~~~~~~~~~~~~~~~~~~~~~~~~
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c:11:
+oIn file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:67:
+o/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_macros.h:51:48: note: expanded from macro 'LOAD32H'
+o           ((unsigned long)((y)[2] & 255)<<8)  | \
+o           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c278"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/sha256.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler86a979eeccc7b841^2f8aa2eeccc7b841^-2262"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c:11:In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:196:9: warning: 'LTC_SHA256' macro redefined#define LTC_SHA256        ^In file included from <built-in>:163:<command line>:3:9: note: previous definition is here#define LTC_SHA256 1        ^In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c:11:In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h:248:9: warning: 'LTC_BASE64' macro redefined#define LTC_BASE64        ^In file included from <built-in>:163:<command line>:4:9: note: previous definition is here#define LTC_BASE64 1        ^/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c:87:9: warning: implicit conversion loses integer precision: 'unsigned long' to 'ulong32' (aka 'unsigned int') [-Wshorten-64-to-32]        LOAD32H(W[i], buf + (4*i));        ^~~~~~~~~~~~~~~~~~~~~~~~~~In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c:11:In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:67:/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_macros.h:51:48: note: expanded from macro 'LOAD32H'           ((unsigned long)((y)[2] & 255)<<8)  | \           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@28"'LTC_SHA256' macro redefined-415747310#18446744073709551615#0#3(2@153"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c:11:-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@134"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c0000000000000000^10#9#10#9#343#0#21"Apple LLVM 5.0 Notice--2@160"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@132"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h0000000000000000^11#9#11#9#215#0#21"Apple LLVM 5.0 Notice--2@27"Previous definition is here-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/%3Ccommand%20line%3E0000000000000000^2#8#2#8#5121#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@139"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h0000000000000000^195#8#195#8#3785#0#29"Lexical or Preprocessor Issue--2@28"'LTC_BASE64' macro redefined-415747310#18446744073709551615#0#3(2@153"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c:11:-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@134"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c0000000000000000^10#9#10#9#343#0#21"Apple LLVM 5.0 Notice--2@160"In file included from /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h:12:-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@132"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt.h0000000000000000^11#9#11#9#215#0#21"Apple LLVM 5.0 Notice--2@27"Previous definition is here-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/%3Ccommand%20line%3E0000000000000000^3#8#3#8#5142#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@139"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_custom.h0000000000000000^247#8#247#8#4821#0#29"Lexical or Preprocessor Issue--2@94"Implicit conversion loses integer precision: 'unsigned long' to 'ulong32' (aka 'unsigned int')-415747310#18446744073709551615#0#1(2@29"Expanded from macro 'LOAD32H'-415747310#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@139"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_macros.h0000000000000000^50#47#50#47#2353#0#21"Apple LLVM 5.0 Notice2(3@139"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_macros.h0000000000000000^48#11#51#42#2215#183#3@139"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers/tomcrypt_macros.h0000000000000000^48#9#48#10#2213#0#-1#27"com.apple.dt.IDE.diagnostic3@134"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c0000000000000000^86#8#86#8#2616#0#22"Value Conversion Issue2(3@134"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c0000000000000000^86#8#86#34#2616#25#3@134"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c0000000000000000^86#8#86#34#2616#25#-0#0#1#-19%DVTDocumentLocation4@134"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c0000000000000000^3329"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/sha256.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/sha256.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/sha256.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2/sha256.c -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/sha256.o36"FFB21823-9E78-42DA-B790-364A0A0794AD-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strbuffer.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s415747309.191557
+e415747309.251190
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strbuffer.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.c
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_private.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_config.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.c267"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strbuffer.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler2d2331edccc7b841^225140edccc7b841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.c0000000000000000^3313"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strbuffer.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strbuffer.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strbuffer.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.c -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strbuffer.o36"E9552FAB-2875-4609-A2F4-9E577D67EB56-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strconv.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strconv.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s415747310.172098
+e415747310.284023
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strconv.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strconv.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strconv.c
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_private.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_config.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strconv.c263"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strconv.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strconv.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler6e6a2ceeccc7b841^78b548eeccc7b841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strconv.c0000000000000000^3301"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strconv.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strconv.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strconv.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strconv.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strconv.c -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/strconv.o36"E7FE9EE1-1249-4DD8-A654-2A9AB36F2E2C-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/utf.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s415747310.634187
+e415747310.675356
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/utf.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.c
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.c255"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/utf.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler6971a2eeccc7b841^4eedaceeccc7b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.c0000000000000000^3277"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/utf.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/utf.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/utf.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.c -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/utf.o36"D0814545-6AF0-4E98-AF60-06AD284E4199-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CCompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/value.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/value.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s415747310.742188
+e415747310.876779
+r1
+xCompileC
+xbuild/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/value.o
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/value.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/value.c
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_config.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/hashtable.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/jansson_private.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.h
+d/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/utf.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/value.c259"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/value.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/value.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler8b18beeeccc7b841^7574e0eeccc7b841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/value.c0000000000000000^3289"CompileC build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/value.o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/value.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DLTC_NO_ASM -DLTC_SHA256 -DLTC_BASE64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-generated-files.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DTPortalLibMac-project-headers.hmap -iquote/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/../.. -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include -I/usr/local/include -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources/x86_64 -I/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/DerivedSources -F/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -F/Library/Frameworks -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/value.d --serialize-diagnostics /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/value.dia -c /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/DTPortalLib/3rdParty/jansson-2.5/src/value.c -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/value.o36"0D069E42-27E8-498F-A0E5-EDE208AE433B-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+
+CLibtool /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/libDTPortalLibMac.a normal x86_64
+s415747311.689752
+e415747311.749935
+r1
+xLibtool
+x/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/libDTPortalLibMac.a
+xnormal
+xx86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Libtool build/Debug/libDTPortalLibMac.a normal x86_6453"Libtool build/Debug/libDTPortalLibMac.a normal x86_64dfa5b0efccc7b841^82fdbfefccc7b841^---0#0#1#--801"Libtool build/Debug/libDTPortalLibMac.a normal x86_64    cd /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug -L/usr/include/lib -filelist /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/DTPortalLib.build/Debug/DTPortalLibMac.build/Objects-normal/x86_64/DTPortalLibMac.LinkFileList -o /Users/tod/Documents/GameProjects/engine30/trunk/src/DTPortalSDK/Apple/build/Debug/libDTPortalLibMac.a36"BC0414B8-BECC-428A-9BBA-4701D6536530-
+b06C333DD-0826-41B8-BC0A-2A02BFA1CA65
+

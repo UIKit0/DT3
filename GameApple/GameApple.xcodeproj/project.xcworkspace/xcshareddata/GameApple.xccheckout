@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E8233AF4-49D0-48D0-98A4-E899EDEA10C4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GameApple</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9635F226-0CC2-49FC-8F1D-B59A2E54088A</key>
+		<string>http://svn2.smellslikedonkey.com/svn/engine30</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/src/GameApple/GameApple.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9635F226-0CC2-49FC-8F1D-B59A2E54088A</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>9635F226-0CC2-49FC-8F1D-B59A2E54088A</key>
+		<string>http://svn2.smellslikedonkey.com/svn/engine30</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://svn2.smellslikedonkey.com/svn/engine30/trunk/src/GameApple/GameApple.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9635F226-0CC2-49FC-8F1D-B59A2E54088A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9635F226-0CC2-49FC-8F1D-B59A2E54088A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>engine30</string>
+		</dict>
+	</array>
+</dict>
+</plist>

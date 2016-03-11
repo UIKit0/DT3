@@ -1,0 +1,12 @@
+prefix=/Users/tod/Documents/GameProjects/engine30/trunk/src/DT3Core/3rdParty/freetype-2.4.4/build-armv7s
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: FreeType 2
+Description: A free, high-quality, and portable font engine.
+Version: 12.2.6
+Requires:
+Libs: -L${libdir} -lfreetype
+Libs.private: -lz 
+Cflags: -I${includedir}/freetype2 -I${includedir}

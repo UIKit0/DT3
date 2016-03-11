@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../DT2Core/Components/ComponentGUIDrawIcon.cpp"
+            timestampString = "408387655.430409"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "ComponentGUIDrawIcon::draw (CameraObject* camera, const Color &amp;parent_color)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../DT3Core/Types/GUI/GUIGridLayout.cpp"
+            timestampString = "411919443.224705"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "GUIGridLayout::animate (const Rectangle &amp;size_target, DTfloat time, DTboolean spline)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../DT3LevelEditor/Animation/EdLevelAnimationWindow.hpp"
+            timestampString = "414037993.206323"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "class EdLevelAnimationWindow"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../DT3Core/Resources/ResourceTypes/TextureResource2D.cpp"
+            timestampString = "417287593.232008"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "TextureResource2D::allocate_rgba_textels (const DTint width, const DTint height, DTboolean mipmapped)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DT3::TextureResource2D::allocate_rgba_textels(int, int, bool)"
+                  moduleName = "GameMac"
+                  urlString = "file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DT3Core/Resources/ResourceTypes/TextureResource2D.cpp"
+                  timestampString = "418056962.044693"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DT3::TextureResource2D::allocate_rgba_textels(int, int, bool)"
+                  moduleName = "GameMac"
+                  urlString = "file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DT3Core/Resources/ResourceTypes/TextureResource2D.cpp"
+                  timestampString = "418056962.044935"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "731">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DT3::TextureResource2D::allocate_rgba_textels(int, int, bool)"
+                  moduleName = "GameMac"
+                  urlString = "file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DT3Core/Resources/ResourceTypes/TextureResource2D.cpp"
+                  timestampString = "418056962.045172"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "786">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DT3::TextureResource2D::allocate_rgba_textels(int, int, bool)"
+                  moduleName = "GameMac"
+                  urlString = "file:///Users/tod/Documents/GameProjects/engine30/trunk/src/DT3Core/Resources/ResourceTypes/TextureResource2D.cpp"
+                  timestampString = "418056962.045408"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "1255">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

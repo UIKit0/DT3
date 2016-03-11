@@ -1,0 +1,1662 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+		D7BA7D76DAB5DD13389D6332 = {
+			buildActionMask = 2147483647;
+			files = (
+				);
+			isa = PBXShellScriptBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+			name = "Qt Qmake";
+			shellPath = "/bin/sh";
+			shellScript = "make -C /Users/tod/Documents/GameProjects/engine30/trunk/src/GameApple/LevelEditor -f LevelEditor.xcodeproj/qt_makeqmake.mak";
+		};
+		28BF0DF36B8892000AC86A2B = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/EdLevelAppMain.cpp";
+			name = "EdLevelAppMain.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		D953A0BA736BF139FE982862 = {
+			fileRef = "28BF0DF36B8892000AC86A2B";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		A5200898077F676AF099F319 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/EdLevelMainWindow.cpp";
+			name = "EdLevelMainWindow.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		CE287B9415CA0E122F619C19 = {
+			fileRef = "A5200898077F676AF099F319";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		C3A78A1AD2D80B41744A9437 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertiesWindow.cpp";
+			name = "EdLevelPropertiesWindow.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		1C285C0074DC5202702FFF4F = {
+			fileRef = "C3A78A1AD2D80B41744A9437";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		F925B7ECCEB003A85C167EFB = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyBase.cpp";
+			name = "EdLevelPropertyBase.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		528039E1F5BD67623B4630D4 = {
+			fileRef = "F925B7ECCEB003A85C167EFB";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		67E290D21C927F8878043C53 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyDefaultField.cpp";
+			name = "EdLevelPropertyDefaultField.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		C2F079EC59E3AB39A35A751A = {
+			fileRef = "67E290D21C927F8878043C53";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		D98718546B03625B998629A1 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyVector3Field.cpp";
+			name = "EdLevelPropertyVector3Field.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		78A7082598CD98E725C07252 = {
+			fileRef = "D98718546B03625B998629A1";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		48F46159D8DD8D34B48DD83B = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyMatrix3Field.cpp";
+			name = "EdLevelPropertyMatrix3Field.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		7E516616E5BD860A9611FF4E = {
+			fileRef = "48F46159D8DD8D34B48DD83B";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		AAA0CF4CE45E6BA908BC61DE = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyColorField.cpp";
+			name = "EdLevelPropertyColorField.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		DE8557D9F22DBFDA224375DB = {
+			fileRef = "AAA0CF4CE45E6BA908BC61DE";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		D956D5A89F4CADA09734FD14 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyTitleField.cpp";
+			name = "EdLevelPropertyTitleField.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		957F771E56817379E3877EB7 = {
+			fileRef = "D956D5A89F4CADA09734FD14";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		B1BE940973A058A9115A5BE1 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyBoolField.cpp";
+			name = "EdLevelPropertyBoolField.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		EB52B62DB01AEC62F710C3F5 = {
+			fileRef = "B1BE940973A058A9115A5BE1";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		2F87647586F512DE02ECFBAC = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyEventField.cpp";
+			name = "EdLevelPropertyEventField.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		0F2C51D5B083D07B456D9A52 = {
+			fileRef = "2F87647586F512DE02ECFBAC";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		1AA33C6AD8F8E25361ABF34C = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyEnumField.cpp";
+			name = "EdLevelPropertyEnumField.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		56EADB6209112A13763A3F4E = {
+			fileRef = "1AA33C6AD8F8E25361ABF34C";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		323CC332F6201BCDA7087872 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyRangeField.cpp";
+			name = "EdLevelPropertyRangeField.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		355C21EB1D6A1719977A474F = {
+			fileRef = "323CC332F6201BCDA7087872";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		148C4B20DE4D486F40898AD3 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelColorSwatch.cpp";
+			name = "EdLevelColorSwatch.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		2A709A1453C69E8D5C6896F2 = {
+			fileRef = "148C4B20DE4D486F40898AD3";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		E87B1C25AAF3D9EDE2C838F6 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Game/EdLevelGame.cpp";
+			name = "EdLevelGame.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		3E90B2748E459594D483DE91 = {
+			fileRef = "E87B1C25AAF3D9EDE2C838F6";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		B0208FEBB083A86A5FA2E3D6 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Game/EdLevelGameGL.cpp";
+			name = "EdLevelGameGL.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		DE009D7568D20E4D11FC92D4 = {
+			fileRef = "B0208FEBB083A86A5FA2E3D6";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		B741BC1AD1BDD273AAB1929B = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Hierarchy/EdLevelHierarchyWindow.cpp";
+			name = "EdLevelHierarchyWindow.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		A1424E76F084A3BC16714194 = {
+			fileRef = "B741BC1AD1BDD273AAB1929B";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		470B16041138D0921F48BAA8 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Hierarchy/EdLevelHierarchyWindowMIME.cpp";
+			name = "EdLevelHierarchyWindowMIME.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		62F35F38CE017CD26038836E = {
+			fileRef = "470B16041138D0921F48BAA8";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		F4B677A09EEF37096C4AC494 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Scripting/EdLevelScriptConnectionRubberBand.cpp";
+			name = "EdLevelScriptConnectionRubberBand.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		E2A15FB72EEEBBFF055E8BC0 = {
+			fileRef = "F4B677A09EEF37096C4AC494";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		49B7BDAAA7521D2613ED635E = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Scripting/EdLevelScriptEventConnection.cpp";
+			name = "EdLevelScriptEventConnection.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		61B9AD8045D0AE85CBCD35FF = {
+			fileRef = "49B7BDAAA7521D2613ED635E";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		45C6700B351EE79534BBBA5A = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Scripting/EdLevelScriptNodeStandard.cpp";
+			name = "EdLevelScriptNodeStandard.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		B308B9AF636235844684E44A = {
+			fileRef = "45C6700B351EE79534BBBA5A";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		A26116ECCCDCB9EF14B113F0 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Scripting/EdLevelScriptPlugConnection.cpp";
+			name = "EdLevelScriptPlugConnection.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		D53D438249D6C06208CC7EBA = {
+			fileRef = "A26116ECCCDCB9EF14B113F0";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		EB7A4B7D710217915D888C9F = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Scripting/EdLevelScriptSelectionRubberBand.cpp";
+			name = "EdLevelScriptSelectionRubberBand.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		67067D5E4C47D85FFD0C924E = {
+			fileRef = "EB7A4B7D710217915D888C9F";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		8EFEAF03B2D2BD70751B52F3 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Scripting/EdLevelScriptWindow.cpp";
+			name = "EdLevelScriptWindow.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		0FD0B3CF50FA39DC509F22C7 = {
+			fileRef = "8EFEAF03B2D2BD70751B52F3";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		8D49A365D839162AA9D66753 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Console/EdLevelConsoleWindow.cpp";
+			name = "EdLevelConsoleWindow.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		3FD8DE30F110272114166F73 = {
+			fileRef = "8D49A365D839162AA9D66753";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		93B05214BD158C2F1793EC63 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Performance/EdLevelPerformanceWindow.cpp";
+			name = "EdLevelPerformanceWindow.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		FCBD7DE3EEA4BD6DC753F781 = {
+			fileRef = "93B05214BD158C2F1793EC63";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		DAC0F42ABD3FDD0B4516AD27 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Resources/EdLevelResourcesWindow.cpp";
+			name = "EdLevelResourcesWindow.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		5E17B21FF2CF4A8C2DD8525E = {
+			fileRef = "DAC0F42ABD3FDD0B4516AD27";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		F563CC6C372C47CAFED2018B = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Library/EdLevelLibraryWindow.cpp";
+			name = "EdLevelLibraryWindow.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		6F7F666C006001125E427464 = {
+			fileRef = "F563CC6C372C47CAFED2018B";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		04BE0AD1586811DC10F0275F = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Library/EdLevelLibraryDialog.cpp";
+			name = "EdLevelLibraryDialog.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		97EEDF71DE35864599C1C8DA = {
+			fileRef = "04BE0AD1586811DC10F0275F";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		2CC1E69965F500BBD2D0A01D = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/World/EdLevelWorldWindow.cpp";
+			name = "EdLevelWorldWindow.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		66323ABA501B86AFC6DF896D = {
+			fileRef = "2CC1E69965F500BBD2D0A01D";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		3BDC32D2D992E7B8399FFDA2 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Animation/EdLevelAnimationWindow.cpp";
+			name = "EdLevelAnimationWindow.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		AEAD793434A4C9369D215028 = {
+			fileRef = "3BDC32D2D992E7B8399FFDA2";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		1248BFE59D4B986FCED979A2 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Sound/EdLevelSoundWindow.cpp";
+			name = "EdLevelSoundWindow.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		D12A7378AD75DE7074B279FD = {
+			fileRef = "1248BFE59D4B986FCED979A2";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		8871897BC3C19839EA770400 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Sound/EdLevelSoundBus.cpp";
+			name = "EdLevelSoundBus.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		3BF9766CB4B5FC4825D36487 = {
+			fileRef = "8871897BC3C19839EA770400";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		3D4F1576636F687880544B71 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Sound/EdLevelSoundVUMeter.cpp";
+			name = "EdLevelSoundVUMeter.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		A2B1E5FB1393238D27F37C6E = {
+			fileRef = "3D4F1576636F687880544B71";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		502C9DA79092FB52ACA14938 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/EdLevelToolWindow.cpp";
+			name = "EdLevelToolWindow.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		3360989D9848923BA4E5FEBA = {
+			fileRef = "502C9DA79092FB52ACA14938";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		FF2F8ED7F5E2CB42D91A9334 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Resources/EdLevelImageThumbnail.cpp";
+			name = "EdLevelImageThumbnail.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		B96E72220A8BAC3A14CC9542 = {
+			fileRef = "FF2F8ED7F5E2CB42D91A9334";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		6BF8940B42B75A8559F94343 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Resources/EdLevelSoundThumbnail.cpp";
+			name = "EdLevelSoundThumbnail.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		81604BB75AEB9FF953CEC408 = {
+			fileRef = "6BF8940B42B75A8559F94343";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		839DD23D1FB9782B42ED9ED8 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Resources/EdLevelMaterialThumbnail.cpp";
+			name = "EdLevelMaterialThumbnail.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		E6EF0E6D4130DA5D8E67952B = {
+			fileRef = "839DD23D1FB9782B42ED9ED8";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		34846F11EF0A7DBB4F7AED5C = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Resources/EdLevelResourceImage.cpp";
+			name = "EdLevelResourceImage.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		76291B8C45C5D9D9D9070569 = {
+			fileRef = "34846F11EF0A7DBB4F7AED5C";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		F14FCE6314346E62785AE17F = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Resources/EdLevelResourceSound.cpp";
+			name = "EdLevelResourceSound.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		BB028236DDE643B153C2B449 = {
+			fileRef = "F14FCE6314346E62785AE17F";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		C5EFD28EA669C90897951FC8 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Resources/EdLevelResourceMaterial.cpp";
+			name = "EdLevelResourceMaterial.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		4B5A8FEEB151717C16593D62 = {
+			fileRef = "C5EFD28EA669C90897951FC8";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		ED8733B03EFC09EF7E9CEF8F = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/EdLevelLineEdit.cpp";
+			name = "EdLevelLineEdit.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		2B984020C368EA821C074563 = {
+			fileRef = "ED8733B03EFC09EF7E9CEF8F";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		E9EE1E9168BE3E9F9C966479 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/EdLevelLaunchDialog.cpp";
+			name = "EdLevelLaunchDialog.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		1D880EB93AD6EDA228425323 = {
+			fileRef = "E9EE1E9168BE3E9F9C966479";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		240EBAC389C2CD0280471412 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/MeshBuilder/EdLevelMeshBuilder.cpp";
+			name = "EdLevelMeshBuilder.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		FC515F2EFC848C55AE39D613 = {
+			fileRef = "240EBAC389C2CD0280471412";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		8DE32DA11BCF2F193F6C0049 = {
+			isa = PBXFileReference;
+			path = "qrc_LevelEditor.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		68B14C944FD5C4E56844CACD = {
+			fileRef = "8DE32DA11BCF2F193F6C0049";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		A0B2491293F64AF8E297E352 = {
+			isa = PBXFileReference;
+			path = "moc_EdLevelPropertyVector2Field.cpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.cpp.cpp";
+		};
+		46F28B1825D6AC5E60AE24C1 = {
+			fileRef = "A0B2491293F64AF8E297E352";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		E09809B239AF345C11274D1A = {
+			isa = PBXFileReference;
+			path = "../../AppConfig.hpp";
+			name = "AppConfig.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		59980B2DA8A66D70B8A5A6FA = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/EdLevelAppMain.hpp";
+			name = "EdLevelAppMain.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		C75BD169ED74D47CDCABCBB3 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/EdLevelMainWindow.hpp";
+			name = "EdLevelMainWindow.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		B36B86982AACDBC29CAFB477 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertiesWindow.hpp";
+			name = "EdLevelPropertiesWindow.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		E9E2DD8B63C4748CAAF71AAF = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyBase.hpp";
+			name = "EdLevelPropertyBase.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		1AED4836138EBA0A76EF2EA2 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyDefaultField.hpp";
+			name = "EdLevelPropertyDefaultField.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		27CD0A4CEEA0B4C27905B86E = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyVector2Field.hpp";
+			name = "EdLevelPropertyVector2Field.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		71FDEA8BDFEA24486C9C53C4 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyVector3Field.hpp";
+			name = "EdLevelPropertyVector3Field.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		6B421B246284CAB4CCA226E9 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyMatrix3Field.hpp";
+			name = "EdLevelPropertyMatrix3Field.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		CECA0F09704011FE6D9EF16E = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyColorField.hpp";
+			name = "EdLevelPropertyColorField.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		2F69C2EE7628C68F794816E5 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyTitleField.hpp";
+			name = "EdLevelPropertyTitleField.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		321160B5BE4E3BE74AFB4732 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyBoolField.hpp";
+			name = "EdLevelPropertyBoolField.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		1253E3ADE4CF85836E18EE8E = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyEventField.hpp";
+			name = "EdLevelPropertyEventField.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		379B25DE6140022EDC0C41A7 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyEnumField.hpp";
+			name = "EdLevelPropertyEnumField.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		A7488D05563294A34F3AD36D = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelPropertyRangeField.hpp";
+			name = "EdLevelPropertyRangeField.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		54C2FA96931664D78C3FF5EC = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Properties/EdLevelColorSwatch.hpp";
+			name = "EdLevelColorSwatch.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		03B5B52499E4CF5A4CA40B8F = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Game/EdLevelGame.hpp";
+			name = "EdLevelGame.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		A73880915526109C41158587 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Game/EdLevelGameGL.hpp";
+			name = "EdLevelGameGL.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		A573F427872350B031A1CB25 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Hierarchy/EdLevelHierarchyWindow.hpp";
+			name = "EdLevelHierarchyWindow.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		6A5D66FA48B8CCC9FAA3B87F = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Hierarchy/EdLevelHierarchyWindowMIME.hpp";
+			name = "EdLevelHierarchyWindowMIME.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		0E6026E11E228E49279B52AC = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Scripting/EdLevelScriptConnectionRubberBand.hpp";
+			name = "EdLevelScriptConnectionRubberBand.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		466AA4D69AA213A3AECB0819 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Scripting/EdLevelScriptEventConnection.hpp";
+			name = "EdLevelScriptEventConnection.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		082896EFFD6DC56371AD9242 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Scripting/EdLevelScriptNodeStandard.hpp";
+			name = "EdLevelScriptNodeStandard.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		04246040756D79832BD059A9 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Scripting/EdLevelScriptPlugConnection.hpp";
+			name = "EdLevelScriptPlugConnection.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		08C989C084C509432A44145D = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Scripting/EdLevelScriptSelectionRubberBand.hpp";
+			name = "EdLevelScriptSelectionRubberBand.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		D1870A2656F4444A7653BE78 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Scripting/EdLevelScriptWindow.hpp";
+			name = "EdLevelScriptWindow.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		CAC066A602CCFC1194935811 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Console/EdLevelConsoleWindow.hpp";
+			name = "EdLevelConsoleWindow.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		9383EAF2B62A14BD9190A7CE = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Performance/EdLevelPerformanceWindow.hpp";
+			name = "EdLevelPerformanceWindow.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		8481256197774860B12BB2A3 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Resources/EdLevelResourcesWindow.hpp";
+			name = "EdLevelResourcesWindow.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		7A39839032B959F698C8C2AE = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Library/EdLevelLibraryWindow.hpp";
+			name = "EdLevelLibraryWindow.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		29EF0F14534398EB49491239 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Library/EdLevelLibraryDialog.hpp";
+			name = "EdLevelLibraryDialog.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		FD842C83F3D60C2D85214485 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/World/EdLevelWorldWindow.hpp";
+			name = "EdLevelWorldWindow.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		E52DEFB8C8CC913866520728 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Animation/EdLevelAnimationWindow.hpp";
+			name = "EdLevelAnimationWindow.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		EF119452CD7672B66168391C = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Sound/EdLevelSoundWindow.hpp";
+			name = "EdLevelSoundWindow.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		C479C648A8928D107E323C81 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Sound/EdLevelSoundBus.hpp";
+			name = "EdLevelSoundBus.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		49ACA1388CA88326613E5208 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Sound/EdLevelSoundVUMeter.hpp";
+			name = "EdLevelSoundVUMeter.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		1F1E327D79E583F3D22DEC42 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/EdLevelToolWindow.hpp";
+			name = "EdLevelToolWindow.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		E312670659B4E2B5E176C56A = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Resources/EdLevelImageThumbnail.hpp";
+			name = "EdLevelImageThumbnail.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		E7F04DAAC6F558454DE4F8A9 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Resources/EdLevelSoundThumbnail.hpp";
+			name = "EdLevelSoundThumbnail.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		DF9B5E70C356A0BFBEECC121 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Resources/EdLevelMaterialThumbnail.hpp";
+			name = "EdLevelMaterialThumbnail.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		4F8DE68FB8E6A522453E8C80 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Resources/EdLevelResourceImage.hpp";
+			name = "EdLevelResourceImage.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		BA5452999C1B74AD46CD3ED9 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Resources/EdLevelResourceSound.hpp";
+			name = "EdLevelResourceSound.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		716242BC24E4FD3F34CB1175 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/Resources/EdLevelResourceMaterial.hpp";
+			name = "EdLevelResourceMaterial.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		B57D99347101B6978AB8B60F = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/EdLevelLineEdit.hpp";
+			name = "EdLevelLineEdit.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		70065589EC56AAF028BD1A80 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/EdLevelLaunchDialog.hpp";
+			name = "EdLevelLaunchDialog.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		FE2000D3E02E6363B9964B19 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/MeshBuilder/EdLevelMeshBuilder.hpp";
+			name = "EdLevelMeshBuilder.hpp";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "sourcecode.c.h";
+		};
+		9F404EDB44BE6EDE6C558141 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/LevelEditor.pro";
+			name = "LevelEditor.pro";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "text";
+		};
+		36DCE9AAF1B7449DDC518568 = {
+			isa = PBXFileReference;
+			path = "../../DT3LevelEditor/LevelEditor.qrc";
+			name = "LevelEditor.qrc";
+			sourceTree = "<absolute>";
+			lastKnownFileType = "text";
+		};
+		FA9127E605566CA2E2BF1EFD = {
+			isa = PBXGroup;
+			children = (
+				"8DE32DA11BCF2F193F6C0049",
+				"A0B2491293F64AF8E297E352");
+			name = "Generated Sources";
+			sourceTree = "<Group>";
+		};
+		3C71CBD58A78FD1945C1DBFC = {
+			isa = PBXGroup;
+			children = (
+				"45B1E8B1F92F94177FAF06CF");
+			name = "..";
+			sourceTree = "<Group>";
+		};
+		45B1E8B1F92F94177FAF06CF = {
+			isa = PBXGroup;
+			children = (
+				"0D520F45F19BA4CF0943B6F9");
+			name = "..";
+			sourceTree = "<Group>";
+		};
+		0D520F45F19BA4CF0943B6F9 = {
+			isa = PBXGroup;
+			children = (
+				"36DCE9AAF1B7449DDC518568");
+			name = "DT3LevelEditor";
+			sourceTree = "<Group>";
+		};
+		BFA3A29D17FD123C907B6E35 = {
+			isa = PBXGroup;
+			children = (
+				"DCB318ABE7A96AA736975C2A");
+			name = "..";
+			sourceTree = "<Group>";
+		};
+		DCB318ABE7A96AA736975C2A = {
+			isa = PBXGroup;
+			children = (
+				"180443F6208969A5383C89C5",
+				"E09809B239AF345C11274D1A");
+			name = "..";
+			sourceTree = "<Group>";
+		};
+		180443F6208969A5383C89C5 = {
+			isa = PBXGroup;
+			children = (
+				"28BF0DF36B8892000AC86A2B",
+				"A5200898077F676AF099F319",
+				"FBAB26DB0AE0D9F71B1E7CC8",
+				"68335AB08441E9633966A29E",
+				"4A14DFDAFC271686E073AEC8",
+				"DE94E765F6B815F1EB71A12E",
+				"0EE650D6E849CCA680566BDF",
+				"910D0D08865C2B54FE74F6DD",
+				"4CF019C0065D23D242B227F0",
+				"A3FAAF6F6AD2DDEC14C8A18D",
+				"E1DDBEF9F506C8228EBC5F00",
+				"2C801DB7B343D39268D9D501",
+				"8C386C83389A32B30CC88643",
+				"502C9DA79092FB52ACA14938",
+				"ED8733B03EFC09EF7E9CEF8F",
+				"E9EE1E9168BE3E9F9C966479",
+				"8F6980033B7A4AC55C6D3165",
+				"59980B2DA8A66D70B8A5A6FA",
+				"C75BD169ED74D47CDCABCBB3",
+				"1F1E327D79E583F3D22DEC42",
+				"B57D99347101B6978AB8B60F",
+				"70065589EC56AAF028BD1A80");
+			name = "DT3LevelEditor";
+			sourceTree = "<Group>";
+		};
+		2C801DB7B343D39268D9D501 = {
+			isa = PBXGroup;
+			children = (
+				"3BDC32D2D992E7B8399FFDA2",
+				"E52DEFB8C8CC913866520728");
+			name = "Animation";
+			sourceTree = "<Group>";
+		};
+		0EE650D6E849CCA680566BDF = {
+			isa = PBXGroup;
+			children = (
+				"8D49A365D839162AA9D66753",
+				"CAC066A602CCFC1194935811");
+			name = "Console";
+			sourceTree = "<Group>";
+		};
+		68335AB08441E9633966A29E = {
+			isa = PBXGroup;
+			children = (
+				"E87B1C25AAF3D9EDE2C838F6",
+				"B0208FEBB083A86A5FA2E3D6",
+				"03B5B52499E4CF5A4CA40B8F",
+				"A73880915526109C41158587");
+			name = "Game";
+			sourceTree = "<Group>";
+		};
+		4A14DFDAFC271686E073AEC8 = {
+			isa = PBXGroup;
+			children = (
+				"B741BC1AD1BDD273AAB1929B",
+				"470B16041138D0921F48BAA8",
+				"A573F427872350B031A1CB25",
+				"6A5D66FA48B8CCC9FAA3B87F");
+			name = "Hierarchy";
+			sourceTree = "<Group>";
+		};
+		A3FAAF6F6AD2DDEC14C8A18D = {
+			isa = PBXGroup;
+			children = (
+				"F563CC6C372C47CAFED2018B",
+				"04BE0AD1586811DC10F0275F",
+				"7A39839032B959F698C8C2AE",
+				"29EF0F14534398EB49491239");
+			name = "Library";
+			sourceTree = "<Group>";
+		};
+		8F6980033B7A4AC55C6D3165 = {
+			isa = PBXGroup;
+			children = (
+				"240EBAC389C2CD0280471412",
+				"FE2000D3E02E6363B9964B19");
+			name = "MeshBuilder";
+			sourceTree = "<Group>";
+		};
+		910D0D08865C2B54FE74F6DD = {
+			isa = PBXGroup;
+			children = (
+				"93B05214BD158C2F1793EC63",
+				"9383EAF2B62A14BD9190A7CE");
+			name = "Performance";
+			sourceTree = "<Group>";
+		};
+		FBAB26DB0AE0D9F71B1E7CC8 = {
+			isa = PBXGroup;
+			children = (
+				"C3A78A1AD2D80B41744A9437",
+				"F925B7ECCEB003A85C167EFB",
+				"67E290D21C927F8878043C53",
+				"D98718546B03625B998629A1",
+				"48F46159D8DD8D34B48DD83B",
+				"AAA0CF4CE45E6BA908BC61DE",
+				"D956D5A89F4CADA09734FD14",
+				"B1BE940973A058A9115A5BE1",
+				"2F87647586F512DE02ECFBAC",
+				"1AA33C6AD8F8E25361ABF34C",
+				"323CC332F6201BCDA7087872",
+				"148C4B20DE4D486F40898AD3",
+				"B36B86982AACDBC29CAFB477",
+				"E9E2DD8B63C4748CAAF71AAF",
+				"1AED4836138EBA0A76EF2EA2",
+				"27CD0A4CEEA0B4C27905B86E",
+				"71FDEA8BDFEA24486C9C53C4",
+				"6B421B246284CAB4CCA226E9",
+				"CECA0F09704011FE6D9EF16E",
+				"2F69C2EE7628C68F794816E5",
+				"321160B5BE4E3BE74AFB4732",
+				"1253E3ADE4CF85836E18EE8E",
+				"379B25DE6140022EDC0C41A7",
+				"A7488D05563294A34F3AD36D",
+				"54C2FA96931664D78C3FF5EC");
+			name = "Properties";
+			sourceTree = "<Group>";
+		};
+		4CF019C0065D23D242B227F0 = {
+			isa = PBXGroup;
+			children = (
+				"DAC0F42ABD3FDD0B4516AD27",
+				"FF2F8ED7F5E2CB42D91A9334",
+				"6BF8940B42B75A8559F94343",
+				"839DD23D1FB9782B42ED9ED8",
+				"34846F11EF0A7DBB4F7AED5C",
+				"F14FCE6314346E62785AE17F",
+				"C5EFD28EA669C90897951FC8",
+				"8481256197774860B12BB2A3",
+				"E312670659B4E2B5E176C56A",
+				"E7F04DAAC6F558454DE4F8A9",
+				"DF9B5E70C356A0BFBEECC121",
+				"4F8DE68FB8E6A522453E8C80",
+				"BA5452999C1B74AD46CD3ED9",
+				"716242BC24E4FD3F34CB1175");
+			name = "Resources";
+			sourceTree = "<Group>";
+		};
+		DE94E765F6B815F1EB71A12E = {
+			isa = PBXGroup;
+			children = (
+				"F4B677A09EEF37096C4AC494",
+				"49B7BDAAA7521D2613ED635E",
+				"45C6700B351EE79534BBBA5A",
+				"A26116ECCCDCB9EF14B113F0",
+				"EB7A4B7D710217915D888C9F",
+				"8EFEAF03B2D2BD70751B52F3",
+				"0E6026E11E228E49279B52AC",
+				"466AA4D69AA213A3AECB0819",
+				"082896EFFD6DC56371AD9242",
+				"04246040756D79832BD059A9",
+				"08C989C084C509432A44145D",
+				"D1870A2656F4444A7653BE78");
+			name = "Scripting";
+			sourceTree = "<Group>";
+		};
+		8C386C83389A32B30CC88643 = {
+			isa = PBXGroup;
+			children = (
+				"1248BFE59D4B986FCED979A2",
+				"8871897BC3C19839EA770400",
+				"3D4F1576636F687880544B71",
+				"EF119452CD7672B66168391C",
+				"C479C648A8928D107E323C81",
+				"49ACA1388CA88326613E5208");
+			name = "Sound";
+			sourceTree = "<Group>";
+		};
+		E1DDBEF9F506C8228EBC5F00 = {
+			isa = PBXGroup;
+			children = (
+				"2CC1E69965F500BBD2D0A01D",
+				"FD842C83F3D60C2D85214485");
+			name = "World";
+			sourceTree = "<Group>";
+		};
+		B0FB4B8F439F11D458759982 = {
+			isa = PBXGroup;
+			children = (
+				"358480C7FCCF9331216F20A9");
+			name = "..";
+			sourceTree = "<Group>";
+		};
+		358480C7FCCF9331216F20A9 = {
+			isa = PBXGroup;
+			children = (
+				"E2B4FEB78FF74A9EEF96A9C3");
+			name = "..";
+			sourceTree = "<Group>";
+		};
+		E2B4FEB78FF74A9EEF96A9C3 = {
+			isa = PBXGroup;
+			children = (
+				"9F404EDB44BE6EDE6C558141");
+			name = "DT3LevelEditor";
+			sourceTree = "<Group>";
+		};
+		DDCF50C29294D4414F3F7C1B = {
+			isa = PBXGroup;
+			children = (
+				"3C71CBD58A78FD1945C1DBFC");
+			name = "Resources";
+			sourceTree = "<Group>";
+		};
+		FB61758D0F0FDA4BA867C3D5 = {
+			isa = PBXGroup;
+			children = (
+				"BFA3A29D17FD123C907B6E35");
+			name = "Sources";
+			sourceTree = "<Group>";
+		};
+		59A98C78A220DE730049D57D = {
+			isa = PBXGroup;
+			children = (
+				"B0FB4B8F439F11D458759982");
+			name = "Supporting Files";
+			sourceTree = "<Group>";
+		};
+		A0A52A2ADF7A1E2A99738674 = {
+			buildActionMask = 2147483647;
+			files = (
+				);
+			isa = PBXShellScriptBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+			name = "Qt Preprocessors";
+			shellPath = "/bin/sh";
+			shellScript = "make -C /Users/tod/Documents/GameProjects/engine30/trunk/src/GameApple/LevelEditor -f LevelEditor.xcodeproj/qt_preprocess.mak";
+		};
+		7F2420B6E85D99F4A5391B9D = {
+			buildActionMask = 2147483647;
+			files = (
+				"D953A0BA736BF139FE982862",
+				"CE287B9415CA0E122F619C19",
+				"1C285C0074DC5202702FFF4F",
+				"528039E1F5BD67623B4630D4",
+				"C2F079EC59E3AB39A35A751A",
+				"78A7082598CD98E725C07252",
+				"7E516616E5BD860A9611FF4E",
+				"DE8557D9F22DBFDA224375DB",
+				"957F771E56817379E3877EB7",
+				"EB52B62DB01AEC62F710C3F5",
+				"0F2C51D5B083D07B456D9A52",
+				"56EADB6209112A13763A3F4E",
+				"355C21EB1D6A1719977A474F",
+				"2A709A1453C69E8D5C6896F2",
+				"3E90B2748E459594D483DE91",
+				"DE009D7568D20E4D11FC92D4",
+				"A1424E76F084A3BC16714194",
+				"62F35F38CE017CD26038836E",
+				"E2A15FB72EEEBBFF055E8BC0",
+				"61B9AD8045D0AE85CBCD35FF",
+				"B308B9AF636235844684E44A",
+				"D53D438249D6C06208CC7EBA",
+				"67067D5E4C47D85FFD0C924E",
+				"0FD0B3CF50FA39DC509F22C7",
+				"3FD8DE30F110272114166F73",
+				"FCBD7DE3EEA4BD6DC753F781",
+				"5E17B21FF2CF4A8C2DD8525E",
+				"6F7F666C006001125E427464",
+				"97EEDF71DE35864599C1C8DA",
+				"66323ABA501B86AFC6DF896D",
+				"AEAD793434A4C9369D215028",
+				"D12A7378AD75DE7074B279FD",
+				"3BF9766CB4B5FC4825D36487",
+				"A2B1E5FB1393238D27F37C6E",
+				"3360989D9848923BA4E5FEBA",
+				"B96E72220A8BAC3A14CC9542",
+				"81604BB75AEB9FF953CEC408",
+				"E6EF0E6D4130DA5D8E67952B",
+				"76291B8C45C5D9D9D9070569",
+				"BB028236DDE643B153C2B449",
+				"4B5A8FEEB151717C16593D62",
+				"2B984020C368EA821C074563",
+				"1D880EB93AD6EDA228425323",
+				"FC515F2EFC848C55AE39D613",
+				"68B14C944FD5C4E56844CACD",
+				"46F28B1825D6AC5E60AE24C1");
+			isa = PBXSourcesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+			name = "Compile Sources";
+		};
+		4DA23EB4B89FA2A9142C4702 = {
+			isa = PBXFileReference;
+			name = "QtGui.framework";
+			path = "/Developer/Qt5.1.1/5.1.1/clang_64/lib/QtGui.framework";
+			refType = 0;
+			sourceTree = "<absolute>";
+			lastKnownFileType = "wrapper.framework";
+		};
+		F2C9294CDA050983C95C640D = {
+			fileRef = "4DA23EB4B89FA2A9142C4702";
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		ECDEFACC0ACF3A69E25E4304 = {
+			isa = PBXFileReference;
+			name = "QtCore.framework";
+			path = "/Developer/Qt5.1.1/5.1.1/clang_64/lib/QtCore.framework";
+			refType = 0;
+			sourceTree = "<absolute>";
+			lastKnownFileType = "wrapper.framework";
+		};
+		346A5CBBCB4F049D9563E6A2 = {
+			fileRef = "ECDEFACC0ACF3A69E25E4304";
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		DA18A6831232F53228631AD1 = {
+			isa = PBXFileReference;
+			name = "OpenGL.framework";
+			path = "/System/Library/Frameworks/OpenGL.framework";
+			refType = 0;
+			sourceTree = "<absolute>";
+			lastKnownFileType = "wrapper.framework";
+		};
+		BCEF71E1EDFB18DA77DC750B = {
+			fileRef = "DA18A6831232F53228631AD1";
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		C6766F86E49E9C8701C8E637 = {
+			isa = PBXFileReference;
+			name = "AGL.framework";
+			path = "/System/Library/Frameworks/AGL.framework";
+			refType = 0;
+			sourceTree = "<absolute>";
+			lastKnownFileType = "wrapper.framework";
+		};
+		0C6D4628EE0B0D1479A20551 = {
+			fileRef = "C6766F86E49E9C8701C8E637";
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		04FB5DF59766A9852E5DD2D0 = {
+			children = (
+				"4DA23EB4B89FA2A9142C4702",
+				"ECDEFACC0ACF3A69E25E4304",
+				"DA18A6831232F53228631AD1",
+				"C6766F86E49E9C8701C8E637");
+			isa = PBXGroup;
+			name = "Frameworks";
+			sourceTree = "<Group>";
+		};
+		B664F9C25C2502EDF1BB3505 = {
+			buildActionMask = 2147483647;
+			files = (
+				"F2C9294CDA050983C95C640D",
+				"346A5CBBCB4F049D9563E6A2",
+				"BCEF71E1EDFB18DA77DC750B",
+				"0C6D4628EE0B0D1479A20551");
+			isa = PBXFrameworksBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+			name = "Link Binary With Libraries";
+		};
+		7BC86CCF3121096008A65319 = {
+			isa = PBXFileReference;
+			includeInIndex = 0;
+			explicitFileType = "wrapper.application";
+			path = ".app";
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		068F80C7519D0528FB08E821 = {
+			children = (
+				"7BC86CCF3121096008A65319");
+			isa = PBXGroup;
+			name = "Products";
+			sourceTree = "<Group>";
+		};
+		05596AB53D8D521C69802C27 = {
+			children = (
+				"FB61758D0F0FDA4BA867C3D5",
+				"FA9127E605566CA2E2BF1EFD",
+				"59A98C78A220DE730049D57D",
+				"DDCF50C29294D4414F3F7C1B",
+				"04FB5DF59766A9852E5DD2D0",
+				"068F80C7519D0528FB08E821");
+			isa = PBXGroup;
+			name = "";
+			sourceTree = "<Group>";
+		};
+		82CF8F508564328DEE098D14 = {
+			buildPhases = (
+				"D7BA7D76DAB5DD13389D6332",
+				"A0A52A2ADF7A1E2A99738674",
+				"7F2420B6E85D99F4A5391B9D",
+				"B664F9C25C2502EDF1BB3505");
+			dependencies = (
+				);
+			productReference = "7BC86CCF3121096008A65319";
+			buildConfigurationList = 17B3380A4D6A7D415E7F2E1E;
+			isa = PBXNativeTarget;
+			buildRules = (
+);
+			productType = "com.apple.product-type.application";
+			name = "";
+			productName = "";
+		};
+		4B72B24813252891014BCF61 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = "NO";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = "YES";
+				GCC_OPTIMIZATION_LEVEL = "0";
+				PRODUCT_NAME = "";
+				SDKROOT = "macosx";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				CC = "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang";
+				LDPLUSPLUS = "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++";
+				INFOPLIST_FILE = "Info.plist";
+				SYMROOT = "/Users/tod/Documents/GameProjects/engine30/trunk/src/GameApple/LevelEditor";
+				DYLIB_CURRENT_VERSION = "1.0.0";
+				DYLIB_COMPATIBILITY_VERSION = "1.0";
+				MACOSX_DEPLOYMENT_TARGET = "10.6";
+				HEADER_SEARCH_PATHS = (
+					"../../DT3LevelEditor",
+					"Source",
+					"/Developer/Qt5.1.1/5.1.1/clang_64/include",
+					"/Developer/Qt5.1.1/5.1.1/clang_64/include/QtGui",
+					"/Developer/Qt5.1.1/5.1.1/clang_64/lib/QtGui.framework/Versions/5/Headers",
+					"/Developer/Qt5.1.1/5.1.1/clang_64/include/QtCore",
+					"/Developer/Qt5.1.1/5.1.1/clang_64/lib/QtCore.framework/Versions/5/Headers",
+					".",
+					"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers",
+					"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AGL.framework/Headers",
+					".",
+					"/Developer/Qt5.1.1/5.1.1/clang_64/mkspecs/macx-xcode");
+				LIBRARY_SEARCH_PATHS = (
+					"/Developer/Qt5.1.1/5.1.1/clang_64/lib",
+					"/System/Library/Frameworks/");
+				FRAMEWORK_SEARCH_PATHS = (
+					"/Developer/Qt5.1.1/5.1.1/clang_64/lib",
+					"/Developer/Qt5.1.1/5.1.1/clang_64/lib");
+				OTHER_CFLAGS = (
+					"-pipe",
+					"-O2",
+					"-Wall",
+					"-W",
+					"-fPIE",
+					"-DQT_NO_DEBUG",
+					"-DQT_GUI_LIB",
+					"-DQT_CORE_LIB");
+				OTHER_CPLUSPLUSFLAGS = (
+					"-pipe",
+					"-O2",
+					"-Wall",
+					"-W",
+					"-fPIE",
+					"-DQT_NO_DEBUG",
+					"-DQT_GUI_LIB",
+					"-DQT_CORE_LIB");
+				OTHER_LDFLAGS = (
+						"-headerpad_max_install_names",
+						"-F/Developer/Qt5.1.1/5.1.1/clang_64/lib");
+				ARCHS = "x86_64";
+			};
+			name = "Debug";
+		};
+		BEC09A62E69C3553534FF35E = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = "NO";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = "YES";
+				GCC_OPTIMIZATION_LEVEL = "0";
+				PRODUCT_NAME = "";
+				SDKROOT = "macosx";
+				PRODUCT_NAME = "";
+			};
+			name = "Debug";
+		};
+		D70590BEB531B51029F711BB = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = "YES";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = "NO";
+				PRODUCT_NAME = "";
+				SDKROOT = "macosx";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				CC = "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang";
+				LDPLUSPLUS = "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++";
+				INFOPLIST_FILE = "Info.plist";
+				SYMROOT = "/Users/tod/Documents/GameProjects/engine30/trunk/src/GameApple/LevelEditor";
+				DYLIB_CURRENT_VERSION = "1.0.0";
+				DYLIB_COMPATIBILITY_VERSION = "1.0";
+				MACOSX_DEPLOYMENT_TARGET = "10.6";
+				HEADER_SEARCH_PATHS = (
+					"../../DT3LevelEditor",
+					"Source",
+					"/Developer/Qt5.1.1/5.1.1/clang_64/include",
+					"/Developer/Qt5.1.1/5.1.1/clang_64/include/QtGui",
+					"/Developer/Qt5.1.1/5.1.1/clang_64/lib/QtGui.framework/Versions/5/Headers",
+					"/Developer/Qt5.1.1/5.1.1/clang_64/include/QtCore",
+					"/Developer/Qt5.1.1/5.1.1/clang_64/lib/QtCore.framework/Versions/5/Headers",
+					".",
+					"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers",
+					"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AGL.framework/Headers",
+					".",
+					"/Developer/Qt5.1.1/5.1.1/clang_64/mkspecs/macx-xcode");
+				LIBRARY_SEARCH_PATHS = (
+					"/Developer/Qt5.1.1/5.1.1/clang_64/lib",
+					"/System/Library/Frameworks/");
+				FRAMEWORK_SEARCH_PATHS = (
+					"/Developer/Qt5.1.1/5.1.1/clang_64/lib",
+					"/Developer/Qt5.1.1/5.1.1/clang_64/lib");
+				OTHER_CFLAGS = (
+					"-pipe",
+					"-O2",
+					"-Wall",
+					"-W",
+					"-fPIE",
+					"-DQT_NO_DEBUG",
+					"-DQT_GUI_LIB",
+					"-DQT_CORE_LIB");
+				OTHER_CPLUSPLUSFLAGS = (
+					"-pipe",
+					"-O2",
+					"-Wall",
+					"-W",
+					"-fPIE",
+					"-DQT_NO_DEBUG",
+					"-DQT_GUI_LIB",
+					"-DQT_CORE_LIB");
+				OTHER_LDFLAGS = (
+						"-headerpad_max_install_names",
+						"-F/Developer/Qt5.1.1/5.1.1/clang_64/lib");
+				ARCHS = "x86_64";
+			};
+			name = "Release";
+		};
+		8C7174830A1E4DCBA0332EC1 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = "YES";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = "NO";
+				PRODUCT_NAME = "";
+				SDKROOT = "macosx";
+				PRODUCT_NAME = "";
+			};
+			name = "Release";
+		};
+		CC82A9286117DFED018F418F = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				"4B72B24813252891014BCF61",
+				"D70590BEB531B51029F711BB");
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = "Release";
+		};
+		17B3380A4D6A7D415E7F2E1E = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				"BEC09A62E69C3553534FF35E",
+				"8C7174830A1E4DCBA0332EC1");
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = "Release";
+		};
+		91B15E841AA80083484172DE = {
+			hasScannedForEncodings = 1;
+			compatibilityVersion = "Xcode 3.2";
+			isa = PBXProject;
+			mainGroup = "05596AB53D8D521C69802C27";
+			productRefGroup = "068F80C7519D0528FB08E821";
+			buildConfigurationList = "CC82A9286117DFED018F418F";
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				"82CF8F508564328DEE098D14");
+		};
+	};
+	rootObject = "91B15E841AA80083484172DE";
+}
